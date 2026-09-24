@@ -1,0 +1,21 @@
+#CONDIÇÃO
+for - repetição com limite definido, ou seja função de varios if iguais [range()]
+while - repete enquanto uma condição for verdadeira
+
+#Intruções Gerais
+Indentação: define o escopo do codigo, um bloco pertence a um laço de repetição, deve estar sempre com TAB avançado a direita.
+Case Sensitivity: Le qualquer coisa sendo maiuscula ou minuscula, mas por pratica bonita use palavras chaves como minuscula(if, else, for while e def), ja os bool tem que ser exatamente assim (True, False e None), fora esses deixe tudo em minuscula.
+Comentarios: '#'
+Sintade de blocos: use ':' para inciar o bloco
+
+#Conceitos e Fundamentos 
+Questão 1) Sobre a diferença fundamental entre as estruturas de repetição, assinale a alternativa correta:
+R: A estrutura for é projetada para a interação sobre coleções ou sequencias definidas (como o resultado da função range()), enquanto o while executa um bloco de codigo repetidamente enquanto uma condição de repetição bool permanecer verdadeira.
+
+Questão 2) Sobre os Comentarios de controle de fluxo break e continue, analise as arfimações:
+R:O comando 'break' interrompe a repetição do laço no momento em que é executado, transferindo o fluxo de execução para fora dele.
+O comando 'continue' ignora as instruções restantes do bloco daquela iteração e passa logo para a proxima volat do laço.
+
+Questão 3) Qual o papel da função range() em conjunto com o laço 'for'?
+R: Gerar uma sequencia aritmética de numeros que serve como base para controlar o numeroo de vezes que a interação ocorrerá.
+

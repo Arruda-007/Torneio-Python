@@ -1,0 +1,21 @@
+#CONDIÇÃO
+if - (se) for True o bloco abaixo sera executado
+elif - (senão se) é usado para testar novas conds caso o if seja False
+else - (senão) fala qualquer coisa que não tenha sido atendido no codigo acima
+
+#OPERADORES
+== igual a
+!= diferente de (verifica se os valores são diferentes)
+
+#IDENTAÇÃO
+O recuo do texto define o que esta dentro ou não, caso haja algum erro de espaço, python entedera como um erro.
+
+#QUESTÕES CONCEITUAIS
+Questão 1) Analisando a estrutura if, elif, else, como interpretador python  se comporta ao encontrar uma condição verdadeira?
+R: Ao encontrar um bloco verdadeiro, ignora (pula) todas as outras partes (elif, else) daquela estrutura.
+
+Questão 2) O que define o 'aninhamento de condições' e como o python o interpreta?
+R: É a pratica de colocar uma estrutura condicional dentro de outro bloco de codigo de outra condição, criando niveis hierarquicos de decisão. Ex: um 'if e else' dentro de outro 'if'
+
+Questão 3) Se todas as condições de um if e de varios elif resultarem em False e não houver um bloco else definido, o que ocorrera?
+R:O interpretador simplesmente ignora todo o blocoda estrutura de decisão e seguira proxima linha do codigo fora da identação. 
