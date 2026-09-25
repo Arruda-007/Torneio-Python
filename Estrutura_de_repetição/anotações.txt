@@ -1,6 +1,7 @@
 #CONDIÇÃO
-for - repetição com limite definido, ou seja função de varios if iguais [range()]
-while - repete enquanto uma condição for verdadeira
+for (para)- repetição com limite definido, ou seja função de varios if iguais [range()]
+while (enquanto) - repete enquanto uma condição for verdadeira
+range() - começa a contar no numero 0
 
 #Intruções Gerais
 Indentação: define o escopo do codigo, um bloco pertence a um laço de repetição, deve estar sempre com TAB avançado a direita.
